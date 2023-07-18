@@ -1,0 +1,32 @@
+
+.form {
+    display: flex;
+    justify-content: center;
+    width:500px;
+	padding:20px;
+	border-radius:10px;
+	margin:auto;
+	background-color:#28A745;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    font-family: 'Acme', sans-serif;
+
+}
+
+.card-text {
+    font-family: 'Architects Daughter', cursive;
+
+}
+
+.now {
+  color: #28A745;
+}
+
+.noww :hover {
+    color: white;
+	background-color: #28A745;
+    cursor: grab;
+}
